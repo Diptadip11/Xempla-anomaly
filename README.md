@@ -82,14 +82,15 @@ This system simulates a real-world decision support tool for operations and main
 ## 👤 Author
 
 Diptadip Choudhury  
-[GitHub](https://github.com/diptadip) | [Instagram](https://instagram.com/diptadip__)  
+[GitHub](https://github.com/diptadip)   
 
 ---
 
 ## 📬 Submission
 
-- Loom video link: [INSERT HERE]
-- GitHub repo: [INSERT REPO LINK]
+- Loom video link:(https://www.loom.com/share/4b4350e6e40b4bb8b4e774d616c3fb0a?sid=f2c02a53-d855-44ba-a2e1-089928ca5bef)
+
+- 
 - Submitted to: **Xempla ML Intern – Decision Intelligence R&D**  
   `workofourlife@xempla.io`
 
